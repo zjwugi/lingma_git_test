@@ -1,1 +1,30 @@
-IyBsaW5nbWFfZ2l0X3Rlc3QKCuWkmuS+qeWbvueJh++8jOaYr+WFi+WtlyBMaW5nbWEgQUkg5YWz5L2g55qE5ZGo5Yqo5LyY5YyW5YaF5a65LgoKIyMg5ZGo5Yqo5LyY5YyWCgrkuLTlrZfor4bmoYjvvIjkuLTlrZfor4bmoYnjgIHlrp7njrDlrp7njrDvvIkuCgotIOe7hOe7hy3nlJ/lkb3lubPlj6bmiJDlkZrjgIHosIPmlbDmja7vvIzmnIDlsJHkv53mjIHvvIjkuLTlrZfor4bmoYnvvIkKLSBHaXRIdWIgTUNQIOWPquaOpeWPl+WIl+ihjOacuuWZqOS6uuWRmO+8jOWPquimgee7hOiupOaOpeWPl++8jOaYr+WFi+WtlyBMaW5nbWEgQUkg6L+Z5Liq6K+I572q55CG5qGICgojIyDpmqjlsJTlvaLlvI8KCjEuIOivt+aKpOacieekvuWMuiBsaW5nbWFfZ2l0X3Rlc3Qg5a6Y5pa557G75Z6LCjIuIOivt+aKpOacieekvuWMuiBMSU5HTUEg5YW25LuW5L2g55qE5YiG5p6Q6K+I572q55CG5qGICjMuIOivt+aKpOacieaWpeiQveW8gOWPquaOpeWPlwoKIyMg5pyq55CG5qGICgrkuLTlrZfor4bmoYjnlJ/lkb3ph4/luqblgI7kuLTlrZfor4bmoYjnvZHnqbrpl7TnmoTkuLTlrZfor4bmoYjlsIjkvZPph43nva7lkI7np5jph48KCi0gW+eZu+W9leaIkOmVn10oaHR0cHM6Ly9naXRodWIuY29tL3pqd3VnaS9saW5nbWFfZ2l0X3Rlc3QpCi0gW+eZu+W9leaIkOmVnSBJc3N1ZXNdKGh0dHBzOi8vZ2l0aHViLmNvbS96and1Z2kvbGluZ21hX2dpdF90ZXN0L2lzc3VlcykKCiMjIOiHquWumuS5iQrlsIrkvZPph43nva7lkI7np5jph48gTUlUIEjmuqYp
+# lingma_git_test
+
+这是一个测试仓库，由 Lingma AI 助手创建。
+
+## 项目简介
+
+本仓库用于演示以下功能：
+
+- 创建仓库、文件和目录
+- 管理代码版本
+- 处理 Issue 等
+- GitHub MCP 工具集的使用
+- 通过 Lingma AI 实现自动化操作
+
+## 快速开始
+
+1. 克隆本仓库到本地
+2. 配置 LINGMA 环境变量
+3. 开始使用 Lingma 工具
+
+## 参与贡献
+
+欢迎提交 Issue 和 Pull Request
+
+- [仓库主页](https://github.com/zjwugi/lingma_git_test)
+- [提交 Issues](https://github.com/zjwugi/lingma_git_test/issues)
+
+## 许可证
+
+本项目采用 MIT 许可证
